@@ -1,0 +1,5 @@
+Date: 31st - Sep -2023
+Course Content:
+    Chapter 1:
+        - After this course, most learners move on to AWS Certified Developer or AWS Certified SysOps Administrator.
+        - 
