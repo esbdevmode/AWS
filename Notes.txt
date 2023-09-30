@@ -3,3 +3,5 @@ Course Content:
     Chapter 1:
         - After this course, most learners move on to AWS Certified Developer or AWS Certified SysOps Administrator.
         - 
+Exam Practice Architect Associate :
+Practice Exams | AWS Certified Solutions Architect Associate : https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate/?_gl=1*1wwj7e4*_ga*MTA1OTY3MDAwMi4xNjk2MTA2Njgy*_ga_6GZZTGGX7H*MTY5NjEwNjY4MS4xLjEuMTY5NjEwNjY4NS41Ni4wLjA.&couponCode=SEP_23_GET_STARTED
