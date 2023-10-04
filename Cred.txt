@@ -1,3 +1,15 @@
+Personal Account -:
 root username: esbdevmode@gmail.com
 root password: Version@1******1
+
+Account ID: 236196891292
+Profile Name: ansuman-prac1
+
+Corp Account -:
+root username: ansuman.padhy@cognizant.com
+root password: Version@1******1
+
+Account Id: 418525892936
+Profile Name: Ansuman-CTSPrac
+
 
