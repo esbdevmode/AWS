@@ -12,4 +12,10 @@ root password: Version@1******1
 Account Id: 418525892936
 Profile Name: Ansuman-CTSPrac
 
+User Details: [ansuman.padhy@cognizant.com]
+  Group Name: Admin
+    User Name: User-admin
+    Account Id: 418525892936
+    password: Version**7
+
 
